@@ -1,6 +1,8 @@
 # homeAssistant-WizMote
 Blueprints to help use a WizMote with Home Assistant
 
+(Borrowed from to add my own variation)
+
 First Setup a esphome WizMote Bridge by adding the config from [jesserockz/wizmote-esphome](https://github.com/jesserockz/wizmote-esphome) into one of your esphome devices that is connected to Home Assistant
 Then import any of the relevent blueprints:
 

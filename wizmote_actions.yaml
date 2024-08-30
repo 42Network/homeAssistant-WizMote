@@ -10,7 +10,7 @@ blueprint:
       selector:
         text:
     wizmote_btn:
-      name: Action Button on WizMote
+      name: All Buttons on WizMote
       selector:
         select:
           options:
@@ -20,6 +20,14 @@ blueprint:
               value: "2"
             - label: "SLEEP"
               value: "3"
+            - label: "1"
+              value: "16"
+            - label: "2"
+              value: "17"
+            - label: 3
+              value: "18"
+            - label: 4
+              value: "19"
             - label: "-"
               value: "8"
             - label: "+"

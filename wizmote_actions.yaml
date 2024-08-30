@@ -1,5 +1,5 @@
 blueprint:
-  name: WizMote Action
+  name: WizMote Actions
   domain: automation
   input:
     remote:
